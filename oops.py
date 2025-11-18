@@ -14,3 +14,5 @@ mycar=Car('Toyota','red','Fortuner')
 print(mycar.brand)
 print(mycar.model)
 print(mycar.color)
+mycar.wheels = 4
+mycar.mirror = 2
